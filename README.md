@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VeSync is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.vesync.com/
+VeSync provides smart home devices and a cloud‑based platform that lets users control appliances such as air purifiers, humidifiers, robot vacuums, and lighting through mobile apps and voice assistants. The company offers an API for device status, control, and integration with third‑party services, supporting OAuth‑like authentication and real‑time updates. VeSync’s ecosystem focuses on energy‑efficient, Wi‑Fi‑enabled products aimed at improving indoor air quality and convenience for consumers.
+
+**Areas:** Company · SmartHome · IoT · ConsumerElectronics · CloudPlatform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vesync.com/)
+- [Terms of service](https://www.vesync.com/legal/terms-of-use-jp)
+- [Privacy policy](https://www.vesync.com/legal/privacy?protocol_id=1)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/vesync/](https://apis.io/providers/vesync/).
